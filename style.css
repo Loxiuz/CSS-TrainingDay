@@ -1,0 +1,32 @@
+body {
+  background-color: mediumspringgreen;
+  color: darkslategray;
+}
+header {
+  background-color: limegreen;
+}
+#about {
+  background-color: darkmagenta;
+}
+section.codebox {
+  background-color: darkcyan;
+}
+#boxmodel {
+  background-color: darkviolet;
+}
+#units {
+  background-color: darkolivegreen;
+}
+#fonts {
+  background-color: darkblue;
+}
+section {
+  background-color: darkslateblue;
+  color: yellow;
+}
+h2 {
+  color: orange;
+}
+nav ul {
+  list-style-type: none;
+}
